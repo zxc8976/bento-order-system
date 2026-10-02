@@ -10,7 +10,3 @@
 
 - 後端：Spring Boot 3.2.6 + MyBatis-Plus + Java 17
 - 前端：Vue
-
-## 作者
-
-林家誠（ken）— 日本電子専門学校 AIシステム科 2026 年畢業

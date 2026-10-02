@@ -10,7 +10,3 @@ Through this project I learned password hashing and permission management.
 
 - Backend: Spring Boot 3.2.6 + MyBatis-Plus + Java 17
 - Frontend: Vue
-
-## Author
-
-Ken Lin — graduated from Japan Electronics College, AI Systems Department in 2026
