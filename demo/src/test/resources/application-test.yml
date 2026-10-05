@@ -13,7 +13,7 @@ spring:
     init:
       mode: never
   mail:
-    username: lin_c@sunseer.co.jp
+    username: test@example.com
 
 mybatis-plus:
   configuration:
